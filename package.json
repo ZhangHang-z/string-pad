@@ -1,0 +1,27 @@
+{
+  "name": "string-pad",
+  "version": "1.0.0",
+  "description": "string left/right/middle pad",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZhangHang-z/string-pad.git"
+  },
+   "bugs": {
+    "url": "https://github.com/ZhangHang-z/string-pad/issues"
+  },
+  "repository": "https://github.com/ZhangHang-z/string-pad.git",
+  "homepage": "https://github.com/ZhangHang-z/string-pad.git",
+  "keywords": [
+    "string",
+    "left",
+    "right",
+    "middle",
+    "pad"
+  ],
+  "author": "ZhangHang",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 4"
+  }
+}
