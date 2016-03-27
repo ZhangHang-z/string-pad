@@ -4,7 +4,7 @@ How to fuck a powerful interest group?
 just push infinite blocks to his hole.
 
 ##Engines
-`greater that Node v4.X.X`
+`>= Node v4.X.X`
 
 ##Example 
 ```javascript
